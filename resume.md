@@ -13,7 +13,7 @@
 * (September 2019 - June 2022)
 * B.A. Geography with Data Science 
 
->Experiences
+>Seekster Company
 ![Seekster](https://seekster-company.oss-ap-southeast-1.aliyuncs.com/workforce-images/default_banner.png)
 ### Data Analyst Intern, Seekster; 
 - Bangkok, Thailand — 2020
@@ -21,7 +21,7 @@
 	* Conducted exploratory analysis in SQL to uncover important trends in sales opportunity and promotion boosting sales by 10%.
     * Designed and developed relational database using MySQL Workbench to capture various metrics relating client’s productivity on the project.
     * Executed weekly presentation on statistical findings and visualizations to teams on the sales performance and trends.
-
+>Bitkub Company
 ![Bitkub](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hp9em6vqgiqkwfcih2by.png)
 ### Finance and Data analysis Intern, Bitkub 
 - Bangkok, Thailand — 2021
