@@ -13,6 +13,9 @@
 * (September 2019 - June 2022)
 * B.A. Geography with Data Science 
 
+
+## Experiences
+
 >Seekster Company
 ![Seekster](https://seekster-company.oss-ap-southeast-1.aliyuncs.com/workforce-images/default_banner.png)
 ### Data Analyst Intern, Seekster; 
